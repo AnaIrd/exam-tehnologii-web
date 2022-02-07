@@ -1,0 +1,39 @@
+[
+    {
+        "descriere":"din import 1",
+        "data":"2022-02-08",
+        "books":[
+        {
+            "titlu":"Cevaaa",
+            "gen_literar":"TRAGEDY",
+            "url":"www.carte-ceva.com"
+        },
+        {
+            "titlu":"Altceva",
+            "gen_literar":"ROMANCE",
+            "url":"www.carte-altceva.com"
+        }
+        ]
+    },
+    {
+        "descriere":"din import 2",
+        "data":"2022-02-08",
+        "books":[
+        {
+            "titlu":"Lumea mea",
+            "gen_literar":"SF",
+            "url":"www.carte-lumea-mea.com"
+        },
+        {
+            "titlu":"Floare albastra",
+            "gen_literar":"POETRY",
+            "url":"www.carte-floare-albastra.com"
+        },
+        {
+            "titlu":"Ceva fumos",
+            "gen_literar":"COMEDY",
+            "url":"www.carte-ceva-frumos.com"
+        }
+        ]
+    }
+]
